@@ -1,0 +1,10 @@
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/configuration/SpringConfiguration.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/model/MobilePhone.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/core/IotClient.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/Main.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/util/GenerateKeyStore.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/util/HttpClient.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/util/PrivateKeyReader.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/model/TraceableMessage.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/core/Publisher.java
+/Users/shailendra.singh/code/awsiottracker/src/main/java/info/lazycompiler/model/MobilePhoneTopic.java
